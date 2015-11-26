@@ -1,0 +1,3 @@
+include ':app', ':uiautomator', ':android'
+
+include ':utf7Ime'
