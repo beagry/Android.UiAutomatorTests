@@ -20,4 +20,6 @@
     <string name="change_text">Change text</string>
     <string name="type_something">type something…</string>
     <string name="open_activity_and_change_text">Open activity and change text</string>
+    <string name="start_service">Start service</string>
+    <string name="stop_service">Stop service</string>
 </resources>

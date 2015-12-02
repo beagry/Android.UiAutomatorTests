@@ -84,12 +84,6 @@ public class YandexTaxiEmulate {
 
     private void setCoordinates() {
 
-//        Context context = InstrumentationRegistry.getContext();
-//
-//        LocationManager manager = (LocationManager) context.getSystemService(context.LOCATION_SERVICE);
-//        manager.
-//        Location location = new Location("")
-
 
         sendLocation(55.723454, 37.604125);
     }
